@@ -1,0 +1,2 @@
+rootProject.name = "Disapatch_Event_Custom"
+include ':app'
